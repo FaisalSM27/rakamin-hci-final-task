@@ -31,7 +31,7 @@ This project develops a machine learning model to predict loan default risk for 
 ## 🚀 How to Use
 ```bash
 # Clone repository
-git clone https://github.com/[YOUR-USERNAME]/home-credit-risk-prediction.git
+git clone https://github.com/FaisalSM27/home-credit-risk-prediction.git
 
 # Install dependencies
 pip install -r requirements.txt
